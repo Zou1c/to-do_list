@@ -2027,3 +2027,237 @@ JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: 
 JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://localhost:59281"
 1655186273579	Marionette	INFO	Stopped listening on port 59430
+1655634097861	geckodriver	INFO	Listening on 127.0.0.1:53153
+1655634100955	mozrunner::runner	INFO	Running command: "D:\\Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Zou1c\\AppData\\Local\\Temp\\rust_mozprofileN53Wr3"
+1655634103195	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zou1c\\AppData\\Local\\Temp\\rust_mozprofileN53Wr3\\search.json.mozlz4", (void 0)))
+1655634105664	Marionette	INFO	Listening on port 53163
+1655634105801	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655634164558	Marionette	INFO	Stopped listening on port 53163
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+rchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zou1c\\AppData\\Local\\Temp\\rust_mozprofile9oFdjo\\search.json.mozlz4", (void 0)))
+1655634111277	Marionette	INFO	Listening on port 53215
+1655634111624	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655634163969	Marionette	INFO	Stopped listening on port 53215
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+rchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zou1c\\AppData\\Local\\Temp\\rust_mozprofile1Xnx6B\\search.json.mozlz4", (void 0)))
+1655634116957	Marionette	INFO	Listening on port 53270
+1655634117378	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655634162523	Marionette	INFO	Stopped listening on port 53270
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1655634192065	geckodriver	INFO	Listening on 127.0.0.1:53336
+1655634195072	mozrunner::runner	INFO	Running command: "D:\\Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Zou1c\\AppData\\Local\\Temp\\rust_mozprofiletZ6qwc"
+1655634195661	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zou1c\\AppData\\Local\\Temp\\rust_mozprofiletZ6qwc\\search.json.mozlz4", (void 0)))
+1655634197355	Marionette	INFO	Listening on port 53347
+1655634197744	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://localhost:53335"
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://localhost:53335"
+1655634198841	Marionette	INFO	Stopped listening on port 53347
+1655634199669	geckodriver	INFO	Listening on 127.0.0.1:53390
+1655634202728	mozrunner::runner	INFO	Running command: "D:\\Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Zou1c\\AppData\\Local\\Temp\\rust_mozprofilemrs3eF"
+1655634203282	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zou1c\\AppData\\Local\\Temp\\rust_mozprofilemrs3eF\\search.json.mozlz4", (void 0)))
+1655634204988	Marionette	INFO	Listening on port 53398
+1655634205402	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://localhost:53335"
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1655634206276	Marionette	INFO	Stopped listening on port 53398
+1655634207064	geckodriver	INFO	Listening on 127.0.0.1:53439
+1655634210136	mozrunner::runner	INFO	Running command: "D:\\Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Zou1c\\AppData\\Local\\Temp\\rust_mozprofileSWy0Yy"
+1655634210698	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zou1c\\AppData\\Local\\Temp\\rust_mozprofileSWy0Yy\\search.json.mozlz4", (void 0)))
+1655634212378	Marionette	INFO	Listening on port 53447
+1655634212804	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://localhost:53335"
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1655634213586	Marionette	INFO	Stopped listening on port 53447
+1655634214315	geckodriver	INFO	Listening on 127.0.0.1:53484
+1655634217336	mozrunner::runner	INFO	Running command: "D:\\Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Zou1c\\AppData\\Local\\Temp\\rust_mozprofile0ehZn3"
+1655634217894	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zou1c\\AppData\\Local\\Temp\\rust_mozprofile0ehZn3\\search.json.mozlz4", (void 0)))
+1655634219552	Marionette	INFO	Listening on port 53492
+1655634219996	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://localhost:53335"
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1655634220939	Marionette	INFO	Stopped listening on port 53492
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1655634764650	geckodriver	INFO	Listening on 127.0.0.1:53744
+1655634767605	mozrunner::runner	INFO	Running command: "D:\\Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Zou1c\\AppData\\Local\\Temp\\rust_mozprofileeusJJT"
+1655634768269	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zou1c\\AppData\\Local\\Temp\\rust_mozprofileeusJJT\\search.json.mozlz4", (void 0)))
+1655634769897	Marionette	INFO	Listening on port 53753
+1655634770269	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://localhost:53743"
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://localhost:53743"
+1655634771309	Marionette	INFO	Stopped listening on port 53753
+1655634772091	geckodriver	INFO	Listening on 127.0.0.1:53795
+1655634775169	mozrunner::runner	INFO	Running command: "D:\\Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Zou1c\\AppData\\Local\\Temp\\rust_mozprofileZexvk3"
+1655634775743	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zou1c\\AppData\\Local\\Temp\\rust_mozprofileZexvk3\\search.json.mozlz4", (void 0)))
+1655634777501	Marionette	INFO	Listening on port 53803
+1655634777858	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://localhost:53743"
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1655634778696	Marionette	INFO	Stopped listening on port 53803
+1655634779484	geckodriver	INFO	Listening on 127.0.0.1:53846
+1655634782570	mozrunner::runner	INFO	Running command: "D:\\Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Zou1c\\AppData\\Local\\Temp\\rust_mozprofileKdw4FC"
+1655634783154	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zou1c\\AppData\\Local\\Temp\\rust_mozprofileKdw4FC\\search.json.mozlz4", (void 0)))
+1655634784817	Marionette	INFO	Listening on port 53854
+1655634785253	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://localhost:53743"
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1655634786006	Marionette	INFO	Stopped listening on port 53854
+1655634786738	geckodriver	INFO	Listening on 127.0.0.1:53894
+1655634789792	mozrunner::runner	INFO	Running command: "D:\\Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Zou1c\\AppData\\Local\\Temp\\rust_mozprofileSf4FF7"
+1655634790382	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zou1c\\AppData\\Local\\Temp\\rust_mozprofileSf4FF7\\search.json.mozlz4", (void 0)))
+1655634792186	Marionette	INFO	Listening on port 53902
+1655634792458	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://localhost:53743"
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1655634793304	Marionette	INFO	Stopped listening on port 53902
+1655635043820	geckodriver	INFO	Listening on 127.0.0.1:53988
+1655635046884	mozrunner::runner	INFO	Running command: "D:\\Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Zou1c\\AppData\\Local\\Temp\\rust_mozprofile1WGoZD"
+1655635047456	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zou1c\\AppData\\Local\\Temp\\rust_mozprofile1WGoZD\\search.json.mozlz4", (void 0)))
+1655635049118	Marionette	INFO	Listening on port 53999
+1655635049561	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655635054346	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1655635059568	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1655635167449	Marionette	INFO	Stopped listening on port 53999
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+\\rust_mozprofiles2leqr\\search.json.mozlz4", (void 0)))
+1655635064905	Marionette	INFO	Listening on port 54067
+1655635064973	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655635069719	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1655635074548	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1655635165824	Marionette	INFO	Stopped listening on port 54067
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+rchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zou1c\\AppData\\Local\\Temp\\rust_mozprofile38RDhw\\search.json.mozlz4", (void 0)))
+1655635080002	Marionette	INFO	Listening on port 54136
+1655635080341	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655635085102	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1655635089924	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1655635166752	Marionette	INFO	Stopped listening on port 54136
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1655636555062	geckodriver	INFO	Listening on 127.0.0.1:54634
+1655636558173	mozrunner::runner	INFO	Running command: "D:\\Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Zou1c\\AppData\\Local\\Temp\\rust_mozprofileaRU6Pm"
+1655636559769	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zou1c\\AppData\\Local\\Temp\\rust_mozprofileaRU6Pm\\search.json.mozlz4", (void 0)))
+1655636561436	Marionette	INFO	Listening on port 54642
+1655636561869	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655636566594	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1655636571441	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1655636819834	Marionette	INFO	Stopped listening on port 54642
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+\\rust_mozprofileHFuIzR\\search.json.mozlz4", (void 0)))
+1655636577185	Marionette	INFO	Listening on port 54709
+1655636577306	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655636582142	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1655636586951	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1655636819053	Marionette	INFO	Stopped listening on port 54709
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+rchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zou1c\\AppData\\Local\\Temp\\rust_mozprofilew4cIQp\\search.json.mozlz4", (void 0)))
+1655636592964	Marionette	INFO	Listening on port 54778
+1655636593277	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655636598063	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1655636602869	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1655636820446	Marionette	INFO	Stopped listening on port 54778
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1655637654087	geckodriver	INFO	Listening on 127.0.0.1:55238
+1655637657081	mozrunner::runner	INFO	Running command: "D:\\Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Zou1c\\AppData\\Local\\Temp\\rust_mozprofile3XnNBi"
+1655637657802	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zou1c\\AppData\\Local\\Temp\\rust_mozprofile3XnNBi\\search.json.mozlz4", (void 0)))
+1655637659493	Marionette	INFO	Listening on port 55247
+1655637659744	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655637664488	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1655637669313	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1655637822334	Marionette	INFO	Stopped listening on port 55247
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+rchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zou1c\\AppData\\Local\\Temp\\rust_mozprofileHTpWq0\\search.json.mozlz4", (void 0)))
+1655637674784	Marionette	INFO	Listening on port 55318
+1655637675194	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655637679937	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1655637684766	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1655637822918	Marionette	INFO	Stopped listening on port 55318
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+rchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zou1c\\AppData\\Local\\Temp\\rust_mozprofileBlCYBZ\\search.json.mozlz4", (void 0)))
+1655637690203	Marionette	INFO	Listening on port 55384
+1655637690577	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655637695363	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1655637700167	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1655637823757	Marionette	INFO	Stopped listening on port 55384
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1655638816433	geckodriver	INFO	Listening on 127.0.0.1:55869
+1655638819415	mozrunner::runner	INFO	Running command: "D:\\Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Zou1c\\AppData\\Local\\Temp\\rust_mozprofilebzX4pE"
+1655638820154	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zou1c\\AppData\\Local\\Temp\\rust_mozprofilebzX4pE\\search.json.mozlz4", (void 0)))
+1655638821755	Marionette	INFO	Listening on port 55878
+1655638822097	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655638822416	Marionette	INFO	Stopped listening on port 55878
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1655638823188	geckodriver	INFO	Listening on 127.0.0.1:55915
+1655638826255	mozrunner::runner	INFO	Running command: "D:\\Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Zou1c\\AppData\\Local\\Temp\\rust_mozprofilexe1GuU"
+1655638826861	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zou1c\\AppData\\Local\\Temp\\rust_mozprofilexe1GuU\\search.json.mozlz4", (void 0)))
+1655638828563	Marionette	INFO	Listening on port 55923
+1655638828939	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655638829306	Marionette	INFO	Stopped listening on port 55923
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+1655638830089	geckodriver	INFO	Listening on 127.0.0.1:55958
+1655638833158	mozrunner::runner	INFO	Running command: "D:\\Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Zou1c\\AppData\\Local\\Temp\\rust_mozprofilefX5zYF"
+1655638833739	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zou1c\\AppData\\Local\\Temp\\rust_mozprofilefX5zYF\\search.json.mozlz4", (void 0)))
+1655638835441	Marionette	INFO	Listening on port 55967
+1655638835835	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655638836106	Marionette	INFO	Stopped listening on port 55967
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
