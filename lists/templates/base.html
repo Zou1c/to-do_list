@@ -13,19 +13,19 @@
 	  <div class="container">
 	  
 	    <div class="row justify-content-center">
-	      <div class="clo-md-6 jumbotron">
+	      <div class="clo-md-4 jumbotron">
 	        <div class="text-center">
 				<h1>{% block header_text %}{% endblock %}</h1>
 				<form method="POST" action={% block form_action %}{% endblock %}>
-					<input name="item_text" id="id_new_item" class="form-control input-lg" placeholder="Enter a to-do item"/>
+					<input name="item_text" id="id_new_item" placeholder="Enter a to-do item" class="form-control input-lg"/>
 					{% csrf_token %}
 				</form>
-			</div>
+	        </div>
 		  </div>
 		</div>
 		
 		<div class="row justify-content-center">
-		  <div class="col-md-6">
+		  <div class="col-md-4">
 				{% block table %}
 				{% endblock %}
 	      </div>
